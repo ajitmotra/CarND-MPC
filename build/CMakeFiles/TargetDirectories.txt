@@ -1,0 +1,3 @@
+/home/ajit/Self_driving_car_term2/CarND-MPC/build/CMakeFiles/edit_cache.dir
+/home/ajit/Self_driving_car_term2/CarND-MPC/build/CMakeFiles/rebuild_cache.dir
+/home/ajit/Self_driving_car_term2/CarND-MPC/build/CMakeFiles/mpc.dir
